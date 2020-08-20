@@ -20,3 +20,5 @@ Extensibility
 Consistent Hashing  
 Message Queue  
 Database Sharding  
+Sessions Microservice
+Gateway
